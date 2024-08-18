@@ -25,7 +25,7 @@ foreach (var c in Chiron.EmojiList.Categories) {
 [Install the Nuget package.](https://www.nuget.org/packages/Chiron.EmojiList/)
 
 ```
-<p>p @Chiron.EmojiList.Locomotive</p>
+<p>@Chiron.EmojiList.Locomotive</p>
 
 @foreach (var c in Chiron.EmojiList.Categories) {
     <p>@c.Name @c.Representitive</p>
